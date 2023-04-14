@@ -1,15 +1,11 @@
 <?php
 echo "Bienvenidos";
 
-echo "primeras lineas de codigo"
-
-<<<<<<< HEAD
-echo "probando la creacion de diferentes ramas"
+echo "primeras lineas de codigo";
 
 
-sdnjsdkvdscv
-sdfcdfsv
-=======
-echo "primeras pruebas de codigo"
->>>>>>> feature/changes-php
+echo "probando la creacion de diferentes ramas";
+
+echo "primeras pruebas de codigo";
+
 ?>
